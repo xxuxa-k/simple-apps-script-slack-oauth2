@@ -2,7 +2,7 @@
   "name": "simple-apps-script-slack-oauth2",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://xxuxa-k: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@github.com/xxuxa-k/simple-apps-script-slack-oauth2.git",
+  "repository": "https://github.com/xxuxa-k/simple-apps-script-slack-oauth2.git",
   "author": "xxuxa-k <tk0x2bc@gmail.com>",
   "license": "MIT",
   "dependencies": {
