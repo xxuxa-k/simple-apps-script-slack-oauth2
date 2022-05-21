@@ -2,3 +2,7 @@
 .envrc
 
 /node_modules/
+
+.clasp.json
+
+/dist/*
